@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   freeswitch:
   - apiVersion: v2
-    appVersion: 1.10.7.214
-    created: "2022-08-10T15:30:11.3270372+02:00"
+    appVersion: 1.10.7.218
+    created: "2022-08-10T20:07:34.1549201+02:00"
     description: FreeSWITCH + CSTA Inside VoIP CTI solution
-    digest: 3a88382ae75bccecd7a41ef65dd79b21bd0b4be553e5dfc7a9611c13442a436f
+    digest: 3b2351929a904000e5f83b62a1e95a58b0b361e099a34924837e6869d9c97157
     home: https://cstainside.com
     kubeVersion: '>= 1.20.0-0'
     maintainers:
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://cstainside.github.io/charts/freeswitch-0.1.2.tgz
     version: 0.1.2
-generated: "2022-08-10T15:30:11.3260372+02:00"
+generated: "2022-08-10T20:07:34.1539221+02:00"
